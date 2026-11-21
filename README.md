@@ -11,13 +11,13 @@ A six-year analysis of Titan Company Ltd's consolidated financials, built in Exc
 
 | Overview | Profitability |
 |---|---|
-| ![Overview](screenshots/page1_overview.png) | ![Profitability](screenshots/page2_profitability.png) |
+| ![Overview](page1_overview.png) | ![Profitability](page2_profitability.png) |
 
 | Leverage and Efficiency | DuPont and Cash Flow |
 |---|---|
-| ![Leverage and Efficiency](screenshots/page3_leverage_efficiency.png) | ![DuPont and Cash Flow](screenshots/page4_dupont_cash_flow.png) |
+| ![Leverage and Efficiency](page3_leverage_efficiency.png) | ![DuPont and Cash Flow](page4_dupont_cash_flow.png) |
 
-The full dashboard is in [`Titan_Dashboard.pdf`](Titan_Dashboard.pdf). The interactive version is [`Titan_Dashboard.pbix`](Titan_Dashboard.pbix) (open it with Power BI Desktop).
+The full dashboard is in [`Titan_Dashboard.pdf`](Titan.pdf). The interactive version is [`Titan_Dashboard.pbix`](Titan.pbix) (open it with Power BI Desktop).
 
 ---
 
