@@ -54,8 +54,8 @@ All figures are in Rs crore, consolidated.
 
 | File | Contents |
 |---|---|
-| `Titan_Dashboard.pbix` | Power BI dashboard, four pages |
-| `Titan_Dashboard.pdf` | PDF export of the dashboard |
+| `Titan.pbix` | Power BI dashboard, four pages |
+| `Titan.pdf` | PDF export of the dashboard |
 | `Titan_Financial_Analysis.xlsx` | Inputs, rebuilt statements, 20+ ratios, written analysis, and the Power BI data table |
 | `screenshots/` | One image per dashboard page |
 
