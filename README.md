@@ -85,13 +85,4 @@ All figures are in Rs crore, consolidated.
 
 ---
 
-## How to use
-
-1. Open `Titan_Financial_Analysis.xlsx`. Blue cells on the Inputs sheet are the source data, and all other sheets are formulas.
-2. Check that the three check rows on the Statements sheet show zero.
-3. Open `Titan_Dashboard.pbix` in Power BI Desktop. The dashboard reads the `PowerBI_Data` sheet of the Excel file. If the file path changes, use Home > Transform data > Data source settings to point it to your copy.
-4. The Year slicer on the Overview page controls the four KPI cards. The Sales and net profit chart always shows all six years.
-
----
-
 *This project is for learning and portfolio purposes and is not investment advice.*
